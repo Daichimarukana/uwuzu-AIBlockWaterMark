@@ -1,0 +1,2 @@
+# uwuzu-AIBlockWaterMark
+AIBlockWaterMark Plugin
